@@ -1,5 +1,5 @@
-# Image-Editing
- Interpolation, Matlab
+# Image-Editing | Octave, Matlab, Makefile
+• Applied interpolation on images for rotating and resizing them using Octave and Matlab Programming Language.
 
 Interpolare aplicata pe imagini
 
